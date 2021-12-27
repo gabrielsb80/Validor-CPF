@@ -1,0 +1,8 @@
+{
+    "name":"gabriel/cpf",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
